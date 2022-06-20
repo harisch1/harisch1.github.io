@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/harisch1.github.io/static/css/main.6457d1d9.css",
+    "main.js": "/harisch1.github.io/static/js/main.d4947cc3.js",
+    "index.html": "/harisch1.github.io/index.html",
+    "main.6457d1d9.css.map": "/harisch1.github.io/static/css/main.6457d1d9.css.map",
+    "main.d4947cc3.js.map": "/harisch1.github.io/static/js/main.d4947cc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6457d1d9.css",
+    "static/js/main.d4947cc3.js"
+  ]
+}
